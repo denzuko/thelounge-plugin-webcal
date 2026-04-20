@@ -1,9 +1,12 @@
 {
   "name": "thelounge-plugin-webcal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Renders webcal:// URIs as clickable Add to Calendar buttons in TheLounge",
+  "main": "index.js",
   "keywords": ["thelounge-plugin"],
   "thelounge": {
+    "supports": "^4.0.0",
+    "name": "Webcal",
     "clientPackage": "client.js"
   },
   "license": "MIT"
