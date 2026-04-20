@@ -1,6 +1,6 @@
 {
   "name": "thelounge-plugin-webcal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Renders webcal:// URIs as clickable Add to Calendar buttons in TheLounge",
   "main": "index.js",
   "keywords": ["thelounge-plugin"],
